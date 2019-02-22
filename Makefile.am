@@ -55,6 +55,8 @@ noinst_HEADERS += contrib/lax_der_parsing.h
 noinst_HEADERS += contrib/lax_der_parsing.c
 noinst_HEADERS += contrib/lax_der_privatekey_parsing.h
 noinst_HEADERS += contrib/lax_der_privatekey_parsing.c
+noinst_HEADERS += contrib/merlin/src/merlin.h
+noinst_HEADERS += contrib/merlin/src/merlin.c
 
 if USE_EXTERNAL_ASM
 COMMON_LIB = libsecp256k1_common.la
