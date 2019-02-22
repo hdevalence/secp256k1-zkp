@@ -1,0 +1,3 @@
+[submodule "contrib/merlin"]
+	path = contrib/merlin
+	url = https://github.com/hdevalence/libmerlin
